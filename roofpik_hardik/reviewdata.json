@@ -1,0 +1,655 @@
+{
+   "took": 1,
+   "timed_out": false,
+   "_shards": {
+      "total": 5,
+      "successful": 5,
+      "failed": 0
+   },
+   "hits": {
+      "total": 1417,
+      "max_score": 1,
+      "hits": [
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KdyIqKlpv-7Lta72S8u",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 4,
+                  "infrastructure": 2,
+                  "amenities": 4,
+                  "greenry": 4,
+                  "parking": 2
+               },
+               "extra": {
+                  "layout": "Yes",
+                  "helpful": "Yes",
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "sispal vihar",
+                  "registered": false,
+                  "uname": "mrs. gaur",
+                  "addblock": false,
+                  "mobile": false,
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "gaur4879@roofpik.com",
+                  "type": "Owner",
+                  "age": "Above 50",
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 5,
+                  "key": "-KdyIqKlpv-7Lta72S8u",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1479321000000,
+                  "title": "many open spaces",
+                  "detail": "we are from army background so we love to stay here. the society is according to our status, not such high society or low society we are very comfortable there. all the residents are similar and friendly. there are so many open spaces within the society. so many towers are there in the society where sunlight is not available but it is very few. we are not affected by that. earlier security was not good but now it is good. we face problems in parking because every apartment has four cars. reserve parking is there some have one or some have two. if someone has, more than two they purchase parking space or get on rent basis. the infrastructure of the society is an average.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": "Yes",
+                  "school": "Yes",
+                  "market": "Yes"
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KYYF6-ddSQECJBtZBbQ",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 4,
+                  "infrastructure": false,
+                  "amenities": 2,
+                  "greenry": 3,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "room no. 208 ews sispal vihar",
+                  "registered": false,
+                  "uname": "sanjay singh",
+                  "addblock": false,
+                  "mobile": "8860802997",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "sanj2997@roofpik.com",
+                  "type": "Tenant",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 2,
+                  "key": "-KYYF6-ddSQECJBtZBbQ",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472322600000,
+                  "title": "i love my society",
+                  "detail": "the society is good, there is no problem with the security. the maintenance and the greenery within the society is good too.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KeHhWvkfpxjkhQ8FtKz",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 5,
+                  "infrastructure": false,
+                  "amenities": 3,
+                  "greenry": 3,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "No",
+                  "water": "No",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "r - 302, sispal vihar",
+                  "registered": false,
+                  "uname": "kartik arora",
+                  "addblock": false,
+                  "mobile": "9818570112",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "kart0112@roofpik.com",
+                  "type": "Tenant",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 4,
+                  "key": "-KeHhWvkfpxjkhQ8FtKz",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472322600000,
+                  "title": "society is good to live",
+                  "detail": "the society is located conveniently as there are lots of markets nearby. the guards are present 24x7 so the security is very good too. infrastructure of the society is good. but there is a problem of power back-up as power cuts are very frequent.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KYYF6-ddSQECJBtZBbJ",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 5,
+                  "infrastructure": false,
+                  "amenities": 5,
+                  "greenry": 5,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "904, f - block, sispal vihar",
+                  "registered": false,
+                  "uname": "honey sharma",
+                  "addblock": false,
+                  "mobile": "9769987305",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "withhoney@gmail.com",
+                  "type": "Tenant",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 4,
+                  "key": "-KYYF6-ddSQECJBtZBbJ",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472322600000,
+                  "title": "family society",
+                  "detail": "the society is good and peaceful. it's well located,markets and all the necessary amenities are within reach.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KeHhWvhriKC0WnkH1nS",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 2,
+                  "infrastructure": false,
+                  "amenities": 3,
+                  "greenry": 4,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "block e, sispal vihar",
+                  "registered": false,
+                  "uname": "sachin aswal",
+                  "addblock": false,
+                  "mobile": "7042478382",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "sachininsync@yahoo.co.in",
+                  "type": "Tenant",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 4,
+                  "key": "-KeHhWvhriKC0WnkH1nS",
+                  "anonymous": false,
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472322600000,
+                  "title": "very good infrastructure.",
+                  "detail": "all the amenities and maintenance of the society is very good. water and electricity is available 24x7.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KeHhWvhriKC0WnkH1nT",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 2,
+                  "infrastructure": false,
+                  "amenities": 3,
+                  "greenry": 4,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "h/206, sispal vihar",
+                  "registered": false,
+                  "uname": "harpreet singh",
+                  "addblock": false,
+                  "mobile": "9810031247",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "harpreeth.singh@gmail.com",
+                  "type": "Tenant",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 4,
+                  "key": "-KeHhWvhriKC0WnkH1nT",
+                  "anonymous": false,
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472322600000,
+                  "title": "overall nice",
+                  "detail": "the security of the society is very good and is safe for women. maintenance is done on a regular basis. rest everything is good.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KYYF6-cfQWDcMr79USc",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 5,
+                  "infrastructure": 2,
+                  "amenities": 2,
+                  "greenry": 2,
+                  "parking": 2
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": "Yes",
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "block - n, sispal vihar",
+                  "registered": false,
+                  "uname": "dr. sumit arora",
+                  "addblock": false,
+                  "mobile": false,
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "care@stomadentals.com",
+                  "type": "Tenant",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 5,
+                  "key": "-KYYF6-cfQWDcMr79USc",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1474741800000,
+                  "title": "safe and green society",
+                  "detail": "the apartments of the society are spacious, but the raw material used in the building is not good. the wood used for making doors or windows is not good. the plaster done on the walls is peeling away, especially in the corners. the blocks/towers are built in a cluster but we have a common park for all the towers. although security is great, in fact this is the best as compared to other societies, but being a tenant i would say that its good for me to stay here because i feel safe as mainly army people reside here like commanders, seniors etc. we also have guards with proper register pen-down which is good with respect to security. as an owner i would never buy an apartment in sispal vihar but yes as a tenant i can live here.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KYYF6-eoL73OfJg5nIn",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 3,
+                  "infrastructure": false,
+                  "amenities": 3,
+                  "greenry": 4,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "No",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "block-j sispal vihar",
+                  "registered": false,
+                  "uname": "chhikara",
+                  "addblock": false,
+                  "mobile": "9888747028",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "vchhikara@goedtech.com",
+                  "type": "Owner",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 2,
+                  "key": "-KYYF6-eoL73OfJg5nIn",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472841000000,
+                  "title": "no eating places",
+                  "detail": "it is a very green & well maintained society. there is no eating space within the society, we have food joints nearby but they are very expensive. there is no provision of space for public notices.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-Kc2tjQrYkmF2XpNkI-I",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 4,
+                  "infrastructure": false,
+                  "amenities": 4,
+                  "greenry": 5,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "Yes",
+                  "water": "Yes",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KgxlCwJaYhf26-2aKw5",
+                  "name": "Suncity Essel Towers - Emerald Court",
+                  "locality": "-KgxmOH2vVy_d9wYOcLq",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-Kb-e3JhVx0JG__0pW8t",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "c-88, sec-54, suncity",
+                  "registered": false,
+                  "uname": "shubham gupta",
+                  "addblock": false,
+                  "mobile": "8860989109",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "s271094@gmail.com",
+                  "type": "Owner",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 4,
+                  "key": "-Kc2tjQrYkmF2XpNkI-I",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472754600000,
+                  "title": "great ambience",
+                  "detail": "the ambience of the society is very good but the condition of the roads is not very good , eating outlets are very few. though we have no problem with the drainage system.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         },
+         {
+            "_index": "allreviewsin",
+            "_type": "data",
+            "_id": "-KeHhWvn7qpBf2WTCYLL",
+            "_score": 1,
+            "_source": {
+               "mainrating": {
+                  "security": 3,
+                  "infrastructure": false,
+                  "amenities": 4,
+                  "greenry": 4,
+                  "parking": false
+               },
+               "extra": {
+                  "layout": false,
+                  "helpful": false,
+                  "electricity": "Not Sure",
+                  "water": "Not Sure",
+                  "location": "Yes",
+                  "transport": "Yes"
+               },
+               "project": {
+                  "city": "-KYJONgh0P98xoyPPYm9",
+                  "micromerket": "-KfM5tQ-UKt6DtrWtzeE",
+                  "name": "Sispal Vihar",
+                  "locality": "-KfRCJ0c4jveG4gkRj2_",
+                  "country": "-K_43TEI8cBodNbwlKqJ",
+                  "key": "-KYMuCz6pE_s2w6fxPfy",
+                  "type": "residential"
+               },
+               "other": {
+                  "story": false
+               },
+               "user": {
+                  "stayyear": false,
+                  "house": "k-1005,sispal vihar",
+                  "registered": false,
+                  "uname": "amna moiz khan",
+                  "addblock": false,
+                  "mobile": "9971777295",
+                  "gender": false,
+                  "staymonth": false,
+                  "email": "amnamoiz@yahoo.com",
+                  "type": "Tenant",
+                  "age": false,
+                  "staywith": false
+               },
+               "main": {
+                  "rating": 4,
+                  "key": "-KeHhWvn7qpBf2WTCYLL",
+                  "anonymous": "No",
+                  "source": "roofpik-activity",
+                  "reviewDate": 1472841000000,
+                  "title": "nice society",
+                  "detail": "this is a very well maintained society. all the basic requirements are there. i like each and everything about my society.",
+                  "mode": "offline"
+               },
+               "closeby": {
+                  "hospital": false,
+                  "school": false,
+                  "market": false
+               }
+            }
+         }
+      ]
+   }
+}

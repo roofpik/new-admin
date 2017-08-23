@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/Organization" lang="en">
+ <head>
+  <script type="text/javascript">
+   if (window.location.hash && window.location.hash == '#_=_') {
+				window.location.hash = '';
+				history.pushState('', document.title, window.location.pathname);
+				e.preventDefault();
+			}
+  </script>
+  <link href="http://www.values.com/daily-quotes-feed.atom" rel="alternate" title="RSS" type="application/rss+xml"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0, minimal-ui" name="viewport"/>
+  <title>
+   Inspirational Quotes - Motivational Quotes - Leadership Quotes | Values.com
+  </title>
+  <meta content="Find the perfect quotation from our hand-picked collection of inspiring quotes by hundreds of authors." name="description"/>
+  <link href="/assets/application-09c6dac4b13b7f5e6a63dcdb5cf28880.css" media="all" rel="stylesheet"/>
+  <meta content="authenticity_token" name="csrf-param"/>
+  <meta content="ikzOF8rPtg9wH6Lse1el7z8RTE2HTUNupYtpMfZHx9I=" name="csrf-token"/>
+  <script>
+   (function(d) {
+			    var config = {
+			      kitId: 'aew6eyc',
+			      scriptTimeout: 3000
+			    },
+			    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+			  })(document);
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-1179606-1', 'auto');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+  </script>
+  <script src="/assets/application-aa30fd62127bad7e9b894cef136021ef.js">
+  </script>
+  <meta content="Values.com" property="og:site_name"/>
+  <meta content="Inspirational Quotes - Motivational Quotes - Leadership Quotes" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="http://downloads.values.com/values_logo_retina.jpg" property="og:image"/>
+  <meta content="http://www.values.com/inspirational-quotes" property="og:url"/>
+  <meta content="Find the perfect quotation from our hand-picked collection of inspiring quotes by hundreds of authors." property="og:description"/>
+  <meta content="149130505293187" property="fb:app_id"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@valuescom" name="twitter:site"/>
+  <meta content="@valuescom" name="twitter:creator"/>
+  <meta content="Inspirational Quotes - Motivational Quotes - Leadership Quotes" name="twitter:title"/>
+  <meta content="Find the perfect quotation from our hand-picked collection of inspiring quotes by hundreds of authors." name="twitter:description"/>
+  <meta content="http://downloads.values.com/values_logo_retina.jpg" name="twitter:image"/>
+  <meta content="http://www.values.com/inspirational-quotes" name="twitter:url"/>
+  <meta content="values.com" itemprop="name"/>
+  <meta content="Find the perfect quotation from our hand-picked collection of inspiring quotes by hundreds of authors." itemprop="description"/>
+  <meta content="http://downloads.values.com/values_logo_retina.jpg" itemprop="image"/>
+  <link href="/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/favicon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="/favicon-160x160.png" rel="icon" sizes="160x160" type="image/png"/>
+  <link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <meta content="#ffffff" name="msapplication-TileColor"/>
+  <meta content="/mstile-144x144.png" name="msapplication-TileImage"/>
+ </head>
+ <body class="quotes_index">
+  <div class="page">
+   <div class="off-canvas-wrap">
+    <div class="row hide-for-small">
+     <div class="large-5 medium-5 columns text-left">
+      <p class="social_media_icon_links">
+       <a class="tiny button facebook_button radius text-center" href="https://www.facebook.com/valuescom">
+        <i class="fa fa-facebook">
+        </i>
+       </a>
+       <a class="tiny button twitter_button radius text-center" href="https://twitter.com/valuescom">
+        <i class="fa fa-twitter">
+        </i>
+       </a>
+       <a class="tiny button pinterest_button radius text-center" href="http://www.pinterest.com/Valuescom/">
+        <i class="fa fa-pinterest-p">
+        </i>
+       </a>
+       <a class="tiny button instagram_button radius text-center" href="https://instagram.com/valuescom/">
+        <i class="fa fa-instagram">
+        </i>
+       </a>
+       <a class="tiny button youtube_button radius text-center" href="https://www.youtube.com/user/values/">
+        <i class="fa fa-youtube-play">
+        </i>
+       </a>
+      </p>
+      <span class="pass_it_on_wordmark">
+       #PassItOn
+       <sup>
+        ®
+       </sup>
+      </span>
+     </div>
+     <div class="large-2 medium-2 columns text-center">
+      <a href="/">
+       <img alt="Valuescom logo" height="100" src="/assets/valuescom_logo-97ebe580322a02f74201166c32e45b57.png" style="margin-top: 5px;" width="100"/>
+      </a>
+     </div>
+     <div class="large-5 medium-5 columns text-right login-logout">
+      <form accept-charset="UTF-8" action="/search" class="main_search" method="get">
+       <div style="display:none">
+        <input name="utf8" type="hidden" value="✓"/>
+       </div>
+       <input id="q" name="q" type="text"/>
+       <button class="button tiny radius secondary search_button" type="submit">
+        <i class="fa fa-search">
+        </i>
+        search
+       </button>
+       <a class="button tiny radius subscribe_button" href="/join">
+        subscribe
+       </a>
+      </form>
+      <p class="languages">
+       <a href="http://www.values.com/">
+        English
+       </a>
+       |
+       <a href="https://values.cn.com/">
+        中文
+       </a>
+       |
+       <a href="https://www.unavidamejor.org/">
+        Español
+       </a>
+       |
+       <a href="https://www.umavidamelhor.org/">
+        Português
+       </a>
+      </p>
+     </div>
+    </div>
+    <div class="inner-wrap">
+     <nav class="tab-bar show-for-small-only">
+      <section class="left-small">
+       <a class="left-off-canvas-toggle menu-icon">
+        <span>
+        </span>
+       </a>
+      </section>
+      <section class="middle tab-bar-section">
+       <h1 class="title">
+        VALUES.COM
+       </h1>
+      </section>
+     </nav>
+     <aside class="left-off-canvas-menu">
+      <ul class="off-canvas-list">
+       <li>
+        <label>
+         SITE NAVIGATION
+        </label>
+       </li>
+       <li>
+        <a href="/">
+         home
+        </a>
+       </li>
+       <li>
+        <a href="/teaching-values">
+         all values
+        </a>
+       </li>
+       <li>
+        <a href="/inspirational-sayings-billboards">
+         billboards
+        </a>
+       </li>
+       <li>
+        <a href="/inspirational-stories-tv-spots">
+         videos
+        </a>
+       </li>
+       <li>
+        <a href="/inspirational-quotes">
+         quotes
+        </a>
+       </li>
+       <li>
+        <a href="/your-inspirational-stories">
+         personal stories
+        </a>
+       </li>
+       <li>
+        <a href="/your-everyday-heroes">
+         everyday hero stories
+        </a>
+       </li>
+       <li>
+        <a href="/radio">
+         radio ads
+        </a>
+       </li>
+       <li>
+        <a href="/inspirational-audio-stories">
+         podcasts
+        </a>
+       </li>
+       <li>
+        <a href="/who-we-are">
+         who we are
+        </a>
+       </li>
+       <li>
+        <a href="/contact-us">
+         contact us
+        </a>
+       </li>
+       <li>
+        <a href="/poster-requests/new">
+         request free posters
+        </a>
+       </li>
+       <li>
+        <a href="/media-companies">
+         for media companies
+        </a>
+       </li>
+       <li>
+        <a href="/terms-of-use">
+         terms of use
+        </a>
+       </li>
+       <li>
+        <a href="/privacy-policy">
+         privacy policy
+        </a>
+       </li>
+       <li>
+        <a href="/join">
+         join us
+        </a>
+       </li>
+      </ul>
+     </aside>
+     <div class="contain-to-grid sticky">
+      <nav class="top-bar hide-for-small" data-topbar="">
+       <section class="top-bar-section">
+        <ul class="left">
+         <li>
+          <a href="/">
+           <i class="fa fa-home">
+           </i>
+          </a>
+         </li>
+         <li class="has-dropdown">
+          <a href="/teaching-values">
+           values
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/teaching-values">
+             all values
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown">
+          <a href="/inspirational-sayings-billboards">
+           billboards
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/inspirational-sayings-billboards">
+             all billboards
+            </a>
+           </li>
+           <li>
+            <a href="/your-billboards/create">
+             create your own billboard
+            </a>
+           </li>
+           <li>
+            <a href="/billboard-videos">
+             behind the billboard videos
+            </a>
+           </li>
+           <li>
+            <a href="/media-companies">
+             for media companies
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown">
+          <a href="/inspirational-stories-tv-spots">
+           videos
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/inspirational-stories-tv-spots">
+             tv commercials
+            </a>
+           </li>
+           <li>
+            <a href="https://values.cn.com/videos/">
+             视频 mandarin tv commercials
+            </a>
+           </li>
+           <li>
+            <a href="/billboard-videos">
+             behind the billboard videos
+            </a>
+           </li>
+           <li>
+            <a href="/other-inspiring-videos">
+             videos
+            </a>
+           </li>
+           <li>
+            <a href="/media-companies">
+             for media companies
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown">
+          <a href="/inspirational-quotes">
+           quotes
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/inspirational-quotes">
+             inspiring quotations
+            </a>
+           </li>
+           <li>
+            <a href="/join">
+             subscribe to daily quotes
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown">
+          <a href="/create-and-share">
+           create &amp; share
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/your-inspirational-stories">
+             personal stories
+            </a>
+           </li>
+           <li>
+            <a href="/your-everyday-heroes">
+             everyday hero stories
+            </a>
+           </li>
+           <li>
+            <a href="/your-billboards/create">
+             create your own billboard
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown hide-for-medium">
+          <a href="/more-materials">
+           more materials
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/inspirational-audio-stories">
+             podcasts
+            </a>
+           </li>
+           <li>
+            <a href="/pass-it-on-ecards">
+             ecards
+            </a>
+           </li>
+           <li>
+            <a href="/pass-it-on-downloads">
+             downloads
+            </a>
+           </li>
+           <li class="show-for-medium hide-for-large">
+            <a href="/schools">
+             resources for schools
+            </a>
+           </li>
+           <li class="show-for-medium hide-for-large">
+            <a href="/values-on-campus">
+             values on campus
+            </a>
+           </li>
+           <li class="show-for-medium hide-for-large">
+            <a href="/poster-requests/new">
+             request free posters
+            </a>
+           </li>
+           <li>
+            <a href="/media-companies">
+             for media companies
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown hide-for-medium">
+          <a href="/radio">
+           radio ads
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/radio">
+             radio ads
+            </a>
+           </li>
+           <li>
+            <a href="http://www.values-media.com/live-announcer-copy">
+             live reads
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown hide-for-medium">
+          <a href="/schools">
+           schools
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/schools">
+             resources for schools
+            </a>
+           </li>
+           <li>
+            <a href="/values-on-campus">
+             values on campus
+            </a>
+           </li>
+           <li>
+            <a href="/poster-requests/new">
+             request free posters
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="has-dropdown">
+          <a href="/who-we-are">
+           who we are
+          </a>
+          <ul class="dropdown text-left">
+           <li>
+            <a href="/who-we-are">
+             about us
+            </a>
+           </li>
+           <li>
+            <a href="/who-we-are/faq">
+             answers to FAQs
+            </a>
+           </li>
+           <li>
+            <a href="/who-we-are/awards-and-recognition">
+             foundation recognition
+            </a>
+           </li>
+           <li>
+            <a href="/contact-us">
+             contact us
+            </a>
+           </li>
+           <li>
+            <a href="/media-companies">
+             for media companies
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </section>
+      </nav>
+     </div>
+     <section class="main-section">
+      <div class="row show-for-small">
+       <div class="large-12 medium-12 small-12 columns">
+        <div class="mobile_search_box text-center">
+         <div class="row">
+          <form accept-charset="UTF-8" action="/search" class="main_search" method="get">
+           <div style="display:none">
+            <input name="utf8" type="hidden" value="✓"/>
+           </div>
+           <div class="row collapse">
+            <div class="small-12 columns text-center">
+             <input class="testing" id="q" name="q" type="text"/>
+             <button class="button tiny radius secondary search_button" type="submit">
+              <i class="fa fa-search">
+              </i>
+              search
+             </button>
+            </div>
+           </div>
+          </form>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="row">
+       <div class="row">
+        <div class="large-12 medium-12 small-12 columns">
+         <div class="inbox_inspiration text-left">
+          <div class="row">
+           <div class="large-4 medium-4 small-12 columns middle text-left">
+            <h5>
+             Subscribe to our FREE
+             <br/>
+             inspirational quote emails!
+            </h5>
+            <form accept-charset="UTF-8" action="/users" class="simple_form new_user" id="new_user" method="post" novalidate="novalidate">
+             <div style="display:none">
+              <input name="utf8" type="hidden" value="✓"/>
+              <input name="authenticity_token" type="hidden" value="ikzOF8rPtg9wH6Lse1el7z8RTE2HTUNupYtpMfZHx9I="/>
+             </div>
+             <div class="row collapse">
+              <div class="large-8 medium-8 small-12 columns">
+               <div class="input email optional user_email">
+                <input autofocus="autofocus" class="string email optional" id="user_email" name="user[email]" placeholder="Type your email address" type="email"/>
+               </div>
+              </div>
+              <div class="large-4 medium-4 small-12 columns">
+               <input class="button button postfix" data-disable-with="Sending..." name="commit" type="submit" value="Subscribe"/>
+              </div>
+             </div>
+            </form>
+           </div>
+           <div class="large-8 medium-8 columns hide-for-small">
+            <div class="row collapse">
+             <div class="large-4 medium-4 columns bumper">
+              <div class="cycle-slideshow" data-cycle-fx="flipHorz" data-cycle-timeout="7000">
+               <img alt="20170116 monday quote" src="http://quotes.values.com/quote_artwork/3763/medium/20170116_monday_quote.jpg"/>
+               <img alt="Friday quote" src="http://quotes.values.com/quote_artwork/7347/medium/friday_quote.jpg"/>
+               <img alt="20170303 friday quote" src="http://quotes.values.com/quote_artwork/5014/medium/20170303_friday_quote.jpg"/>
+              </div>
+             </div>
+             <div class="large-4 medium-4 columns bumper">
+              <div class="cycle-slideshow" data-cycle-fx="flipHorz" data-cycle-timeout="6800">
+               <img alt="20161213 tuesday quote new" src="http://quotes.values.com/quote_artwork/7579/medium/20161213_tuesday_quote_new.jpg"/>
+               <img alt="Monday quote" src="http://quotes.values.com/quote_artwork/7313/medium/monday_quote.jpg"/>
+               <img alt="Friday quote" src="http://quotes.values.com/quote_artwork/7302/medium/friday_quote.jpg"/>
+              </div>
+             </div>
+             <div class="large-4 medium-4 columns bumper">
+              <div class="cycle-slideshow" data-cycle-fx="flipHorz" data-cycle-timeout="6600">
+               <img alt="20160906 tuesday quote" src="http://quotes.values.com/quote_artwork/6741/medium/20160906_tuesday_quote.jpg"/>
+               <img alt="Wednesday quote" src="http://quotes.values.com/quote_artwork/7280/medium/wednesday_quote.jpg"/>
+               <img alt="Tuesday quote" src="http://quotes.values.com/quote_artwork/7279/medium/tuesday_quote.jpg"/>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="large-12 medium-12 columns text-center">
+        <form accept-charset="UTF-8" action="/inspirational-quotes" class="large_search" method="get" style="margin-top: 20px;">
+         <div style="display:none">
+          <input name="utf8" type="hidden" value="✓"/>
+         </div>
+         <input id="q" name="q" placeholder="Search quotes by value, author or keyword" type="text"/>
+         <button class="button tiny radius secondary search_button" type="submit">
+          <i class="fa fa-search">
+          </i>
+          search quotes
+         </button>
+        </form>
+       </div>
+      </div>
+      <div class="row">
+       <div class="large-12 columns transitions-enabled large-centered clearfix" id="container">
+        <div class="quote" data-url="/inspirational-quotes/3991-many-people-will-walk-in-and-out-of-your-life">
+         <a href="/inspirational-quotes/3991-many-people-will-walk-in-and-out-of-your-life">
+          <img alt="Plan a surprise birthday for your best friend. #friendship #passiton www.values.com" src="http://quotes.values.com/quote_artwork/3991/medium/20170609_friday_quote.jpg?1496444397"/>
+         </a>
+         <h5>
+          FRIENDSHIP
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/3991-many-people-will-walk-in-and-out-of-your-life">
+           Many people will walk in and out of your life but only true friends will leave footprints in your heart.
+          </a>
+         </h6>
+         <p>
+          Eleanor Roosevelt
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/7642-lots-of-people-want-to-ride-with-you-in-the">
+         <a href="/inspirational-quotes/7642-lots-of-people-want-to-ride-with-you-in-the">
+          <img alt="Show support by attending an event or performance that is important to a friend. #friendship #passiton www.values.com" src="http://quotes.values.com/quote_artwork/7642/medium/20170608_thursday_quote.jpg?1496444373"/>
+         </a>
+         <h5>
+          FRIENDSHIP
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/7642-lots-of-people-want-to-ride-with-you-in-the">
+           Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+          </a>
+         </h6>
+         <p>
+          Oprah Winfrey
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/7641-friends-are-medicine-for-a-wounded-heart-and">
+         <a href="/inspirational-quotes/7641-friends-are-medicine-for-a-wounded-heart-and">
+          <img alt="Reconnect with an old friend. #friendship #passiton www.values.com" src="http://quotes.values.com/quote_artwork/7641/medium/20170607_wednesday_quote.jpg?1496444330"/>
+         </a>
+         <h5>
+          FRIENDSHIP
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/7641-friends-are-medicine-for-a-wounded-heart-and">
+           Friends are medicine for a wounded heart and vitamins for a hopeful soul.
+          </a>
+         </h6>
+         <p>
+          Steve Maraboli
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/7189-walk-beside-me-and-be-my-friend">
+         <a href="/inspirational-quotes/7189-walk-beside-me-and-be-my-friend">
+          <img alt="Make sure your friends know that you've got their back through good times and bad. #friendship #passiton www.values.com" src="http://quotes.values.com/quote_artwork/7189/medium/20170606_tuesday_quote_alternate.jpg?1496523534"/>
+         </a>
+         <h5>
+          FRIENDSHIP
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/7189-walk-beside-me-and-be-my-friend">
+           Walk beside me and be my friend.
+          </a>
+         </h6>
+         <p>
+          Albert Camus
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/6128-may-love-and-laughter-light-your-days-and-warm">
+         <a href="/inspirational-quotes/6128-may-love-and-laughter-light-your-days-and-warm">
+          <img alt="Treat a friend to dinner and a movie. #friendship #passiton www.values.com" src="http://quotes.values.com/quote_artwork/6128/medium/20170605_monday_quote.jpg?1496444278"/>
+         </a>
+         <h5>
+          FRIENDSHIP
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/6128-may-love-and-laughter-light-your-days-and-warm">
+           May love and laughter light your days, and warm your heart and home. May good and faithful friends be yours wherever you may roam...
+          </a>
+         </h6>
+         <p>
+          Irish Proverb
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/6803-all-men-should-strive-to-learn-before-they-die">
+         <a href="/inspirational-quotes/6803-all-men-should-strive-to-learn-before-they-die">
+          <img alt="Make an effort to learn about who you are, and develop self-awareness. #learning #passiton www.values.com" src="http://quotes.values.com/quote_artwork/6803/medium/20170602_friday_quote.jpg?1495754638"/>
+         </a>
+         <h5>
+          LEARNING
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/6803-all-men-should-strive-to-learn-before-they-die">
+           All men should strive to learn before they die, what they are running from, and to, and why.
+          </a>
+         </h6>
+         <p>
+          James Thurber
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/6790-learning-is-not-attained-by-chance-it-must-be">
+         <a href="/inspirational-quotes/6790-learning-is-not-attained-by-chance-it-must-be">
+          <img alt="Make a goal to learn about something new every day for one week. #learning #passiton www.values.com" src="http://quotes.values.com/quote_artwork/6790/medium/20170601_thursday_quote.jpg?1495754597"/>
+         </a>
+         <h5>
+          LEARNING
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/6790-learning-is-not-attained-by-chance-it-must-be">
+           Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.
+          </a>
+         </h6>
+         <p>
+          Abigail Adams
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/6726-i-am-always-doing-that-which-i-cannot-do-in">
+         <a href="/inspirational-quotes/6726-i-am-always-doing-that-which-i-cannot-do-in">
+          <img alt="Sign up for a class and learn a new skill. #learning #passiton www.values.com" src="http://quotes.values.com/quote_artwork/6726/medium/20170531_wednesday_quote.jpg?1495754559"/>
+         </a>
+         <h5>
+          LEARNING
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/6726-i-am-always-doing-that-which-i-cannot-do-in">
+           I am always doing that which I cannot do, in order that I may learn how to do it.
+          </a>
+         </h6>
+         <p>
+          Pablo Picasso
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/5395-the-road-of-life-twists-and-turns-and-no-two">
+         <a href="/inspirational-quotes/5395-the-road-of-life-twists-and-turns-and-no-two">
+          <img alt="There is a lesson to be learned in every situation—look for it. #learning #passiton www.values.com" src="http://quotes.values.com/quote_artwork/5395/medium/20170530_tuesday_quote.jpg?1495754523"/>
+         </a>
+         <h5>
+          LEARNING
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/5395-the-road-of-life-twists-and-turns-and-no-two">
+           The road of life twists and turns and no two directions are ever the same. Yet our lessons come from the journey, not the destination.
+          </a>
+         </h6>
+         <p>
+          Don Williams Jr.
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/7640-tell-me-and-i-forget-teach-me-and-i-remember">
+         <a href="/inspirational-quotes/7640-tell-me-and-i-forget-teach-me-and-i-remember">
+          <img alt="Don't be afraid to try something new. Mistakes are an important part of the learning process. #learning #passiton www.values.com" src="http://quotes.values.com/quote_artwork/7640/medium/20170529_monday_quote.jpg?1495754466"/>
+         </a>
+         <h5>
+          LEARNING
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/7640-tell-me-and-i-forget-teach-me-and-i-remember">
+           Tell me and I forget. Teach me and I remember. Involve me and I learn.
+          </a>
+         </h6>
+         <p>
+          Benjamin Franklin
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/6953-i-haven-t-a-clue-how-my-story-will-end-but">
+         <a href="/inspirational-quotes/6953-i-haven-t-a-clue-how-my-story-will-end-but">
+          <img alt="Write a bucket list and see how many things you can cross off this year. #spreadyourwings #passiton www.values.com" src="http://quotes.values.com/quote_artwork/6953/medium/20170526_friday_quote.jpg?1495224807"/>
+         </a>
+         <h5>
+          SPREAD YOUR WINGS
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/6953-i-haven-t-a-clue-how-my-story-will-end-but">
+           I haven’t a clue how my story will end, but that’s all right. When you set out on a journey and night covers the road, that’s when you discover the stars.
+          </a>
+         </h6>
+         <p>
+          Nancy Willard
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/7639-i-am-not-the-same-having-seen-the-moon-shine">
+         <a href="/inspirational-quotes/7639-i-am-not-the-same-having-seen-the-moon-shine">
+          <img alt="Plan a trip to a place you've always wanted to visit. #spreadyourwings #passiton www.values.com" src="http://quotes.values.com/quote_artwork/7639/medium/20170525_thursday_quote.jpg?1495224790"/>
+         </a>
+         <h5>
+          SPREAD YOUR WINGS
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/7639-i-am-not-the-same-having-seen-the-moon-shine">
+           I am not the same, having seen the moon shine on the other side of the world.
+          </a>
+         </h6>
+         <p>
+          Mary Anne Radmacher
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/7638-the-fishermen-know-that-the-sea-is-dangerous">
+         <a href="/inspirational-quotes/7638-the-fishermen-know-that-the-sea-is-dangerous">
+          <img alt="Do something today that you've always wanted to do, but have been too afraid to try. #spreadyourwings #passiton www.values.com" src="http://quotes.values.com/quote_artwork/7638/medium/20170524_wednesday_quote.jpg?1495224473"/>
+         </a>
+         <h5>
+          SPREAD YOUR WINGS
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/7638-the-fishermen-know-that-the-sea-is-dangerous">
+           The fishermen know that the sea is dangerous and the storm terrible, but they have never found these dangers sufficient reason for remaining ashore.
+          </a>
+         </h6>
+         <p>
+          Vincent Van Gogh
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/3046-a-bird-doesnt-sing-because-it-has-an-answer-it">
+         <a href="/inspirational-quotes/3046-a-bird-doesnt-sing-because-it-has-an-answer-it">
+          <img alt="Let go of something that's holding you back from reaching your goals. #spreadyourwings #passiton www.values.com" src="http://quotes.values.com/quote_artwork/3046/medium/20170523_tuesday_quote.jpg?1495224449"/>
+         </a>
+         <h5>
+          SPREAD YOUR WINGS
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/3046-a-bird-doesnt-sing-because-it-has-an-answer-it">
+           A bird doesn't sing because it has an answer, it sings because it has a song.
+          </a>
+         </h6>
+         <p>
+          Maya Angelou
+         </p>
+        </div>
+        <div class="quote" data-url="/inspirational-quotes/7637-to-infinity-and-beyond">
+         <a href="/inspirational-quotes/7637-to-infinity-and-beyond">
+          <img alt="Explore a new area in your own town. #spreadyourwings #passiton www.values.com" src="http://quotes.values.com/quote_artwork/7637/medium/20170522_monday_quote_updated.jpg?1495234975"/>
+         </a>
+         <h5>
+          SPREAD YOUR WINGS
+         </h5>
+         <h6>
+          <a href="/inspirational-quotes/7637-to-infinity-and-beyond">
+           To infinity and beyond.
+          </a>
+         </h6>
+         <p>
+          Buzz Lightyear, Toy Story
+         </p>
+        </div>
+       </div>
+       <div class="pagination-centered" id="infinite-scrolling">
+        <ul class="pagination">
+         <li class="prev previous_page unavailable">
+          <a href="#">
+           «
+          </a>
+         </li>
+         <li class="current">
+          <a href="/inspirational-quotes?page=1">
+           1
+          </a>
+         </li>
+         <li>
+          <a href="/inspirational-quotes?page=2" rel="next">
+           2
+          </a>
+         </li>
+         <li>
+          <a href="/inspirational-quotes?page=3">
+           3
+          </a>
+         </li>
+         <li>
+          <a href="/inspirational-quotes?page=4">
+           4
+          </a>
+         </li>
+         <li>
+          <a href="/inspirational-quotes?page=5">
+           5
+          </a>
+         </li>
+         <li class="unavailable">
+          <a href="#">
+           <span class="gap">
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="/inspirational-quotes?page=222">
+           222
+          </a>
+         </li>
+         <li class="next next_page ">
+          <a href="/inspirational-quotes?page=2" rel="next">
+           »
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </section>
+     <div class="row hide-for-small">
+      <div class="small-12 columns">
+       <ul class="footer_nav">
+        <li>
+         <a href="/join">
+          subscribe to daily quotes
+         </a>
+        </li>
+        <li>
+         <a href="/poster-requests/new">
+          request free posters
+         </a>
+        </li>
+        <li>
+         <a href="/terms-of-use">
+          terms of use
+         </a>
+        </li>
+        <li>
+         <a href="/privacy-policy">
+          privacy policy
+         </a>
+        </li>
+        <li>
+         <a href="/contact-us">
+          contact us
+         </a>
+        </li>
+        <li>
+         <a href="/who-we-are">
+          who we are
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <a class="exit-off-canvas">
+     </a>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+

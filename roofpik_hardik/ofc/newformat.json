@@ -1,0 +1,252 @@
+{
+                            "status": {
+                                "basic": true, 
+                                "meta": true, 
+                                "amenities": true, 
+                                "scores": true, 
+                                "units": true, 
+                                "spec": true
+                            }, 
+                            "updated": time_stamp, 
+                            "general": {
+                                "website": "NA", 
+                                "about": "Suncity Heights, located in Gurgaon, is a residential development of Suncity Projects. It offers spacious and skillfully designed 3BHK, 4BHK, 5BHK apartments, and penthouses. The project is well equipped with all the basic amenities to facilitate the needs of the residents. The site is in close proximity to various civic utilities.", 
+                                "power": "full", 
+                                "builder": "-KgxkZl5yNFKvpivNVjz", 
+                                "floors": "18", 
+                                "rent": "45000", 
+                                "maintenance": "6000", 
+                                "units": "314", 
+                                "security": "24x7", 
+                                "segment": "High End", 
+                                "tower": "11", 
+                                "yop": "2013"
+                            }, 
+                            "key": "-Kb-FoMkpgQx02BQ2BZU", 
+                            "created": 1491390174335, 
+                            "specifications": {
+                                "fittings": {
+                                    "toilets": "Granite counter, Italian Counter Top in Master Toilet, Pastel Shade sanitary fixtures and Single lever CP Fittings in Wash basin and Shower.", 
+                                    "kitchen": "Double bowl stainless steel sink with drain board and with single lever fittings"
+                                }, 
+                                "flooring": {
+                                    "toilets": "Anti skid ceramic tiles", 
+                                    "masterBedroom": "Vitrified Tile, Laminated Wooden flooring in Master Bedroom", 
+                                    "livingDining": "Italian marble flooring", 
+                                    "otherBedroom": "Vitrified Tile, Laminated Wooden flooring in Master Bedroom", 
+                                    "kitchen": "Anti skid ceramic tiles flooring"
+                                }, 
+                                "windows": {
+                                    "all": "Powder coated aluminum with double rebate windows"
+                                }, 
+                                "general": {
+                                    "bedroomFlooring": "Laminated Wood Flooring", 
+                                    "airConditioning": "No", 
+                                    "homeAutomation": "No", 
+                                    "livingFlooring": "Imported Marble"
+                                }, 
+                                "walls": {
+                                    "interior": "POP punning with acrylic emulsion paint,Acrylic emulsion paint with Cornice ceilings", 
+                                    "toilets": "7 feet high Ceramic tiles above counter", 
+                                    "exterior": "Acrylic Emulsion Paint", 
+                                    "kitchen": "2 feet high Ceramic tiles above counter"
+                                }, 
+                                "doors": {
+                                    "main": "Hardwood door frame with European style flush panel", 
+                                    "internal": "Hardwood door frame with European style flush panel"
+                                }
+                            }, 
+                            "highlights": {
+                                "pros": "Shopping Centre"
+                            }, 
+                            "locality": "-KgrkbPCf1eR-kAOFqP_", 
+                            "propertyTypes": {
+                                "penthouse": "No", 
+                                "rowhouse": "No", 
+                                "apartment": "Yes", 
+                                "villa": "No"
+                            }, 
+                            "units": {
+                                "-Kb-GutJ9vPOMxJFokgL": {
+                                    "poojaRoom": "No", 
+                                    "bathroom": "3+", 
+                                    "area": "5033", 
+                                    "bhk": "5", 
+                                    "servantRoom": "No", 
+                                    "rent": "95000", 
+                                    "key": "-Kb-GutJ9vPOMxJFokgL", 
+                                    "bedroom": "5", 
+                                    "studyRoom": "No", 
+                                    "type": "apartment"
+                                }, 
+                                "-Kb-GutIXXISSBNrpr-Q": {
+                                    "poojaRoom": "No", 
+                                    "bathroom": "3+", 
+                                    "area": "4994", 
+                                    "bhk": "5", 
+                                    "servantRoom": "No", 
+                                    "rent": "95000", 
+                                    "key": "-Kb-GutIXXISSBNrpr-Q", 
+                                    "bedroom": "5", 
+                                    "studyRoom": "No", 
+                                    "type": "apartment"
+                                }, 
+                                "-Kb-GutGhl8Wpd1jXaG_": {
+                                    "poojaRoom": "No", 
+                                    "bathroom": "3+", 
+                                    "area": "2830", 
+                                    "bhk": "4", 
+                                    "servantRoom": "No", 
+                                    "rent": "48000", 
+                                    "key": "-Kb-GutGhl8Wpd1jXaG_", 
+                                    "bedroom": "4", 
+                                    "studyRoom": "No", 
+                                    "type": "apartment"
+                                }, 
+                                "-Kb-GutGhl8Wpd1jXaGa": {
+                                    "poojaRoom": "No", 
+                                    "bathroom": "3+", 
+                                    "area": "2868", 
+                                    "bhk": "4", 
+                                    "servantRoom": "No", 
+                                    "rent": "50000", 
+                                    "key": "-Kb-GutGhl8Wpd1jXaGa", 
+                                    "bedroom": "4", 
+                                    "studyRoom": "No", 
+                                    "type": "apartment"
+                                }, 
+                                "-Kb-GutHvGn9k1ejVfFa": {
+                                    "poojaRoom": "No", 
+                                    "bathroom": "3+", 
+                                    "area": "5000", 
+                                    "bhk": "4", 
+                                    "servantRoom": "No", 
+                                    "rent": "70000", 
+                                    "key": "-Kb-GutHvGn9k1ejVfFa", 
+                                    "bedroom": "4", 
+                                    "studyRoom": "No", 
+                                    "type": "apartment"
+                                }, 
+                                "-Kb-GutF6vhCfOg2X-g9": {
+                                    "poojaRoom": "No", 
+                                    "bathroom": "3+", 
+                                    "area": "2341", 
+                                    "bhk": "3", 
+                                    "servantRoom": "No", 
+                                    "rent": "45000", 
+                                    "key": "-Kb-GutF6vhCfOg2X-g9", 
+                                    "bedroom": "3", 
+                                    "studyRoom": "No", 
+                                    "type": "apartment"
+                                }
+                            }, 
+                            "meta": {
+                                "keywords": "high end, senior, bachelor, apartments, suncity heights, Golf Course Road, Sector 54", 
+                                "description": "Located in Sector 54, Suncity Heights is a high end residential project, providing options for an efficient living", 
+                                "title": "SUNCITY HEIGHTS"
+                            }, 
+                            "amenities": {
+                                "entertainment": {                                    
+                                    "cardsRoom": "No", 
+                                    "partyHall": "Yes", 
+                                    "bowling": "No", 
+                                    "library": "NA", 
+                                    "jacuzzi": "No", 
+                                    "indoorGames": "Yes", 
+                                    "miniTheatre": "No", 
+                                    "videoGames": "No", 
+                                    "spa": "NA", 
+                                    "steam-sauna": "NA", 
+                                    "cafe": "Yes", 
+                                    "amphitheatre": "No"
+                                },  
+                                "sports": {
+                                    "cricket": "No", 
+                                    "golfCourseFacing": "No", 
+                                    "joggingTrack": "No", 
+                                    "basketballCourt": "No", 
+                                    "skatingRink": "No", 
+                                    "tennisCourt": "Yes", 
+                                    "tableTennis": "Yes", 
+                                    "golfPutting": "No", 
+                                    "snookerPool": "Yes"
+                                }, 
+                                "convenience": {
+                                    "inhouseRestaurants": "NA", 
+                                    "badmintonCourt": "No", 
+                                    "inhousePlaySchool": "Yes", 
+                                    "football": "No", 
+                                    "multipurposeCourt": "No", 
+                                    "volleyball": "No", 
+                                    "inhouseGroceryStore": "Yes", 
+                                    "squashCourt": "No", 
+                                    "inhouseChemist": "No"
+                                }, 
+                                "safety": {
+                                    "gatedCommunity": "Yes", 
+                                    "smartCard-biometric": "NA", 
+                                    "visitorParking": "Yes", 
+                                    "smartCardBiometric": "No", 
+                                    "guarAtLiftLobby": "No", 
+                                    "guardAtLiftLobby": "No", 
+                                    "guestAccomodation": "No", 
+                                    "petArea": "No"
+                                }, 
+                                "basic": {
+                                    "clubhouse": "Yes", 
+                                    "powerBackup": "Full", 
+                                    "security24x7": "Yes", 
+                                    "kidsPlayArea": "Yes",  
+                                    "intercom": "Yes", 
+                                    "gym": "Yes", 
+                                    "fireProtection": "Yes", 
+                                    "cctv": "Yes", 
+                                    "parks": "Yes", 
+                                    "videoPhone": "No", 
+                                    "lifts": "Yes", 
+                                    "carParking": "Yes", 
+                                    "waterSupply24x7": "Yes", 
+                                    "kidsPool": "No", 
+                                    "swimmingPool": "Outdoor"
+                                }, 
+                                "services": {
+                                    "maintenanceStaff": "Yes", 
+                                    "rainWaterHarvesting": "Yes", 
+                                    "wasteDisposal": "Yes"
+                                }
+                            }, 
+                            "location": {
+                                "addline1": "Suncity, Golf Course Road, Sector 54", 
+                                "city": "-KYJONgh0P98xoyPPYm9", 
+                                "addline2": "Gurgaon, Haryana", 
+                                "pincode": "122003", 
+                                "displayAdd": "Golf Course Road, Sector 54", 
+                                "lat": "28.437815", 
+                                "lng": "77.105079"
+                            }, 
+                            "cover-image": "-Kh1BbkaWX1NwJnE0fth", 
+                            "scores": {
+                                "affordable": 0, 
+                                "petFriendly": 5, 
+                                "ultraLuxury": 0, 
+                                "seniorLiving": 5, 
+                                "downtown": 6, 
+                                "bachelors": 0, 
+                                "luxury": 5, 
+                                "bestAmenities": 5
+                            }, 
+                            "images": {
+                                "-Kh1BjhGq8lc13HlzTGj": "thumbnail", 
+                                "-Kh1BpIY7pvxAorwK5jr": "general", 
+                                "-Khk1EAbvGCaDpkZe1_R": "general", 
+                                "-Khk15_vutELA9aIjFWO": "general", 
+                                "-Kh1BbkaWX1NwJnE0fth": "cover", 
+                                "-Khk0yrBFUTcgxshUNVJ": "general", 
+                                "-KhuHB39kU0Z49vFAvy-": "general", 
+                                "-Khk0iHdIu3VZwxJPUiq": "general"
+                            }, 
+                            "micromarket": "-Kgrjs1TXosM7q6IJa1p", 
+                            "active": true, 
+                            "thumbnail": "-Kh1BjhGq8lc13HlzTGj", 
+                            "name": "Suncity Heights"
+                        }

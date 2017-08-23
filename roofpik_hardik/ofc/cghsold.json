@@ -1,0 +1,187 @@
+{
+          "amenities" : {
+            "basic" : {
+              "carParking" : "No",
+              "cctv" : "Yes",
+              "clubhouse" : "No",
+              "fireProtection" : "Yes",
+              "gym" : "No",
+              "intercom" : "Yes",
+              "kidsPlayArea" : "No",
+              "kidsPool" : "No",
+              "lifts" : "Yes",
+              "parks" : "Yes",
+              "powerBackup" : "Full",
+              "security24x7" : "Yes",
+              "swimmingPool" : "No",
+              "videoPhone" : "No",
+              "waterSupply24x7" : "Yes"
+            },
+            "convenience" : {
+              "badmintonCourt" : "No",
+              "football" : "No",
+              "inhouseChemist" : "No",
+              "inhouseGroceryStore" : "No",
+              "inhousePlaySchool" : "No",
+              "inhouseRestaurants" : "No",
+              "multipurposeCourt" : "No",
+              "squashCourt" : "No",
+              "volleyball" : "No"
+            },
+            "entertainment" : {
+              "amphitheatre" : "No",
+              "bowling" : "No",
+              "cafe" : "No",
+              "cardsRoom" : "No",
+              "indoorGames" : "Yes",
+              "jacuzzi" : "No",
+              "library" : "No",
+              "miniTheatre" : "No",
+              "partyHall" : "Yes",
+              "spa" : "No",
+              "steam-sauna" : "No",
+              "videoGames" : "No"
+            },
+            "safety" : {
+              "gatedCommunity" : "Yes",
+              "guardAtLiftLobby" : "No",
+              "guestAccomodation" : "No",
+              "petArea" : "No",
+              "smartCard-biometric" : "No",
+              "visitorParking" : "Yes"
+            },
+            "services" : {
+              "maintenanceStaff" : "Yes",
+              "rainWaterHarvesting" : "Yes",
+              "wasteDisposal" : "Yes"
+            },
+            "sports" : {
+              "basketballCourt" : "No",
+              "cricket" : "No",
+              "golfCourseFacing" : "No",
+              "golfPutting" : "No",
+              "joggingTrack" : "No",
+              "skatingRink" : "No",
+              "snookerPool" : "No",
+              "tableTennis" : "Yes",
+              "tennisCourt" : "No"
+            }
+          },
+          "configurations" : {
+            "-KbTI4_P1TZftqwJRDjF" : {
+              "balcony" : "3+",
+              "bathroom" : "3+",
+              "bhk" : "3",
+              "carpetArea" : "2245",
+              "poojaRoom" : "NA",
+              "priceComponentSplit" : {
+                "basicPrice" : "NA",
+                "clubMembership" : "NA",
+                "edcIdc" : "NA",
+                "floorPlc" : "NA",
+                "oneTimeMaintenanceSecurity" : "NA",
+                "other" : "NA",
+                "parkingCharges" : "NA"
+              },
+              "pricing" : {
+                "buy" : {
+                  "max" : "NA",
+                  "min" : "NA"
+                },
+                "rent" : {
+                  "max" : 35000,
+                  "min" : 26000
+                },
+                "resale" : {
+                  "max" : "NA",
+                  "min" : "NA"
+                }
+              },
+              "servantRoom" : "1",
+              "studyRoom" : "NA",
+              "superBuiltArea" : "2615",
+              "unit" : "Apartments"
+            }
+          },
+          "images" : {
+            "coverPhoto" : {
+              "url" : "43110fcb-79a3-4a4e-a03a-18ed25b81cd0"
+            },
+            "otherPhotos" : {
+              "-Kbiu1n2cjOvqnnefirn" : {
+                "url" : "981719e1-87d9-421d-adc2-41802d1360ed"
+              }
+            }
+          },
+          "launch" : {
+            "month" : "Aug",
+            "year" : "2006"
+          },
+          "live" : false,
+          "possession" : {
+            "month" : "Apr",
+            "year" : "2008"
+          },
+          "price" : {
+            "buy" : {
+              "max" : "NA",
+              "min" : "NA"
+            },
+            "rent" : {
+              "max" : 35000,
+              "min" : 26000
+            }
+          },
+          "priceSqft" : {
+            "2010" : "NA",
+            "2011" : "NA",
+            "2012" : "NA",
+            "2013" : "NA",
+            "2014" : "NA",
+            "2015" : "NA",
+            "2016" : "NA"
+          },
+          "projectDetails" : {
+            "address" : {
+              "addressLine1" : "Pragati Hills Society, Sohna Road, Sector 47",
+              "addressLine2" : "Gurgaon, Haryana",
+              "cityId" : "-KYJONgh0P98xoyPPYm9",
+              "cityName" : "Gurgaon",
+              "displayAddress" : "Sohna Road, Sector 47",
+              "lat" : "28.428677",
+              "lng" : "77.041808",
+              "localities" : {
+                "primary" : {
+                  "localityId" : "-KYJOduA3Aiy5b0FEiis",
+                  "localityName" : "Sohna Road"
+                }
+              },
+              "locations" : {
+                "primary" : {
+                  "locationId" : "-KYMv2Qa3irMl1XFKpXd",
+                  "locationName" : "Sector 47"
+                }
+              },
+              "pincode" : "122018"
+            },
+            "builderId" : "-K_UDFJZvBFRX-RIMQ7d",
+            "builderName" : "CGHS",
+            "floors" : {
+              "max" : "12",
+              "min" : "12"
+            },
+            "numberOfTowers" : "2",
+            "numberOfUnits" : "48",
+            "officialWebsite" : "NA"
+          },
+          "projectId" : "-KbTH7LhfpBAxMT1vJpx",
+          "projectName" : "Avalon Heights ANNA CGHS",
+          "projectStatus" : "Ready to Move",
+          "segment" : "Economy",
+          "specifications" : {
+            "airConditioning" : "No",
+            "bedroomFlooring" : "Others",
+            "homeAutomation" : "No",
+            "livingFlooring" : "Others"
+          }
+        }
